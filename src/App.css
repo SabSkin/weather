@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.active {
+  text-decoration: underline;
+  color: lightgreen;
+  font-weight: 600;
+}
+
+button {
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  margin-top: 20px;
+  border: none;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 20px;
+}

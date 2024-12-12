@@ -1,0 +1,8 @@
+.conteiner {
+  position: fixed;
+  top: 150px;
+  left: 60px;
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+}
